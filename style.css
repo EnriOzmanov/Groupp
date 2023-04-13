@@ -1,0 +1,28 @@
+.head{
+    background-color: blue;
+    height: 300px;
+}
+ul{
+    list-style: none;
+    margin-left: 400px;
+    margin-top: -50px;
+}
+a{
+    background-color: white;
+}
+.navigation-li{
+    display:inline-block;
+    margin-left:50px
+}
+nav{
+    display:inline-block;
+}
+.button{
+    margin-left: 50px;
+}
+.image{
+    margin-left: 60px;
+}
+
+
+    
