@@ -1,3 +1,4 @@
+
 *{
     margin:0;
 }
@@ -40,4 +41,70 @@ button{
 .phone{
     color: white;
     padding-left: 130px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+.Rectangle{
+    margin-top: 215px;
+    width: 1000px;
+    height: 600px;
+}
+.queshionH1{
+    margin-top: 33px;
+    letter-spacing: 0px;
+    color: #171717;
+}
+.fiveREctangle{
+    margin-top: 38px;
+    display: inline-block;
+    width: 219px;
+    height: 219px;
+}
+.fiveREctangle img{
+ height: 100%;
+ width: 100%;
+}
+.container{
+    max-width: 1200px;
+}
+.firstP{
+    top: 1217px;
+    left: 485px;
+    width: 951px;
+    height: 177px;
+    letter-spacing: 0px;
+    color: #171717;
+}
+
+.head{
+    background-color: blue;
+    height: 300px;
+}
+ul{
+    list-style: none;
+    margin-left: 400px;
+    margin-top: -50px;
+}
+a{
+    background-color: white;
+}
+.navigation-li{
+    display:inline-block;
+    margin-left:50px
+}
+nav{
+    display:inline-block;
+}
+.button{
+    margin-left: 50px;
+}
+.image{
+    margin-left: 60px;
 }
